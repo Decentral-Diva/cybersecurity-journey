@@ -4,8 +4,8 @@
 |----------|----------|
 | Domain 1 - Security Principles | ✅ Completed |
 | Domain 2 - Business Continuity, Disaster Recovery, and Incident Response | ✅ Completed |
-| Domain 3 - Access Control Concepts | ⏳ In Progress |
-| Domain 4 - Network Security | Not Started |
+| Domain 3 - Access Control Concepts | ✅ Completed |
+| Domain 4 - Network Security | ⏳ Next |
 | Domain 5 - Security Operations | Not Started |
 
 ## Goal
