@@ -2,82 +2,82 @@
 
 ## Status
 
-In Progress
+Completed ✅
 
-## What Is Security?
+## Overview
+
+Domain 1 introduced the fundamental principles of cybersecurity and how organizations protect information, systems, and assets.
+
+## What Is Cybersecurity?
 
 Cybersecurity is the practice of protecting systems, networks, applications, and data from unauthorized access, attacks, damage, or theft.
 
-## Core Security Goals
+## CIA Triad
+
+The CIA Triad consists of:
+
+* Confidentiality
+* Integrity
+* Availability
+
+These principles form the foundation of information security.
 
 ### Confidentiality
 
-Confidentiality ensures that information is only accessible to authorized individuals.
+Ensures information is only accessible to authorized individuals.
 
 Examples:
 
-- Passwords
-- Encryption
-- Access controls
+* Passwords
+* Encryption
+* Access controls
 
 ### Integrity
 
-Integrity ensures that information remains accurate and is not altered without authorization.
+Ensures information remains accurate and is not altered without authorization.
 
 Examples:
 
-- Hashing
-- Digital signatures
-- Change management
+* Hashing
+* Digital signatures
+* Change management
 
 ### Availability
 
-Availability ensures that systems and information are accessible when needed.
+Ensures systems and information are accessible when needed.
 
 Examples:
 
-- Backups
-- Redundancy
-- Disaster recovery plans
-
-## CIA Triad
-
-The CIA Triad is a foundational cybersecurity concept.
-
-- Confidentiality
-- Integrity
-- Availability
-
-These three principles guide security decisions and controls.
+* Backups
+* Redundancy
+* Disaster recovery plans
 
 ## Risk
 
-Risk is the possibility that a threat will exploit a vulnerability and cause harm.
+Risk is the possibility that a threat will exploit a vulnerability and cause harm to an asset.
 
-### Risk Formula
+### Components of Risk
 
-Risk = Threat × Vulnerability × Impact
+* Threat
+* Vulnerability
+* Impact
 
 ## Threats
 
-A threat is anything capable of causing harm to an asset.
-
 Examples:
 
-- Hackers
-- Malware
-- Natural disasters
-- Insider threats
+* Cybercriminals
+* Malware
+* Insider threats
+* Natural disasters
 
 ## Vulnerabilities
 
-A vulnerability is a weakness that can be exploited.
-
 Examples:
 
-- Weak passwords
-- Unpatched software
-- Misconfigurations
+* Weak passwords
+* Misconfigured systems
+* Outdated software
 
 ## Security Controls
 
@@ -85,41 +85,25 @@ Security controls are safeguards used to reduce risk.
 
 ### Administrative Controls
 
-Examples:
-
-- Policies
-- Procedures
-- Security awareness training
+* Policies
+* Procedures
+* Security awareness training
 
 ### Technical Controls
 
-Examples:
-
-- Firewalls
-- Antivirus software
-- Multi-factor authentication
+* Firewalls
+* Antivirus software
+* Multi-factor authentication
 
 ### Physical Controls
 
-Examples:
-
-- Locks
-- Security guards
-- CCTV cameras
+* Locks
+* Security guards
+* CCTV cameras
 
 ## Key Takeaways
 
-- Security is built around Confidentiality, Integrity, and Availability.
-- Risk exists when threats can exploit vulnerabilities.
-- Security controls help reduce risk.
-- Cybersecurity involves people, processes, and technology.
-
-## Personal Notes
-
-(Add your own observations from the ISC2 course here.)
-
-## Questions for Further Study
-
-- How is risk measured in real organizations?
-- How do different security controls work together?
-- What are examples of threats in Web3 environments?
+* Security is built around Confidentiality, Integrity, and Availability.
+* Risk exists when threats can exploit vulnerabilities.
+* Security controls help reduce risk.
+* Cybersecurity involves people, processes, and technology.
